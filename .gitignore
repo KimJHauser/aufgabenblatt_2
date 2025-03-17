@@ -1,0 +1,40 @@
+# macOS spezifische Dateien
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+ 
+# IntelliJ IDEA Projektdateien
+.idea/
+*.iml
+*.iws
+*.ipr
+ 
+# Java Build-Ordner
+/out/
+/target/
+bin/
+build/
+ 
+# Maven
+.mvn/
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+ 
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+ 
+# Logs und temporäre Dateien
+*.log
+*.tmp
+hs_err_pid*
+replay_pid
